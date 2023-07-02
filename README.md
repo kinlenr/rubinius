@@ -1,1 +1,1 @@
-example Google Colab
+added badges (#45)
