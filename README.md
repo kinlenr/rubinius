@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
