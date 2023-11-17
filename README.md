@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+Add new YOLOv8 OBB model metrics (#7379)
