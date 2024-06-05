@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+More robust PNNX downloads (#8866)
