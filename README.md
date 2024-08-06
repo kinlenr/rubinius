@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
