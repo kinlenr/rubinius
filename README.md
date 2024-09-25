@@ -1,1 +1,1 @@
-added badges (#45)
+Update docs building code (#7601)
